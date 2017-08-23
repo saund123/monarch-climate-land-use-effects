@@ -1,5 +1,5 @@
 # monarch-climate-land-use-effects
-Evaluating local and cross-seasonal associations of climate and land use with abundance of monarch butterflies
+# Evaluating local and cross-seasonal associations of climate and land use with abundance of monarch butterflies
 
 # Abstract
 Quantifying how climate and land use factors drive population dynamics at regional scales is complex because it depends
